@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Datasets & Large Binary Archives (Auto-downloaded by setup_environment.py)
+data/
+*.hdf5
+*.h5
+*.bin
+
+# Research Paper Drafts & Confidential Academic Manuscripts
+REVIEW_*.md
+*PAPER_DRAFT*.md
+*DRAFT*.md
+*.pdf
+*.tex
+
+# Empirical Experimental Results & Telemetry Artifacts
+results/
+*.csv
+*.png
+*.jpg
+*.jpeg
+
+# IDE, OS, and Agent Caches
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.agents/
+.gemini/
+*.log
+scratch/
