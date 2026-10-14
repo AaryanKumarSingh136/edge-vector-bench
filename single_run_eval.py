@@ -6,7 +6,7 @@ Isolated Single-Index Evaluation Worker for Hardware-Enforced Vector Search.
 
 Part of the empirical study:
 "Analysis of Vector Database Indexing Techniques Under Hardware-Enforced Memory Constraints"
-Authors: Aaryan Kumar Singh (24BCE1705) & Karan Gandhi (24BCE1709)
+Authors: Aaryan Kumar Singh & Karan Gandhi
 Track: Systems for Machine Learning (SysML) / Edge AI Data Infrastructure
 
 Execution Model:

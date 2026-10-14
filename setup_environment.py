@@ -6,7 +6,7 @@ Environment Verification and Benchmark Dataset Ingestion Pipeline.
 
 Part of the empirical study:
 "Analysis of Vector Database Indexing Techniques Under Hardware-Enforced Memory Constraints"
-Authors: Aaryan Kumar Singh (24BCE1705) & Karan Gandhi (24BCE1709)
+Authors: Aaryan Kumar Singh & Karan Gandhi
 Track: Systems for Machine Learning (SysML) / Edge AI Data Infrastructure
 
 Responsibilities:
@@ -55,7 +55,7 @@ def print_banner():
     banner = """
 ================================================================================
   SysML Empirical Research Framework: Vector DB Memory Constraints
-  Authors: Aaryan Kumar Singh (24BCE1705) & Karan Gandhi (24BCE1709)
+  Authors: Aaryan Kumar Singh & Karan Gandhi
   Environment Provisioning & Dataset Baseline Verification
 ================================================================================
 """
